@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates a comprehensive data pipeline using Azure Data Factory, Data Lake Gen 2, Azure Databricks, and Azure Synapse Analytics. The goal is to process and analyze data from the 2021 Tokyo Olympics and visualize the results using Power BI, Looker Studio, and Tableau.
+This project demonstrates a comprehensive data pipeline using Azure Data Factory, Data Lake Gen 2, Azure Databricks, and Azure Synapse Analytics. The goal is to process and analyze data from the 2021 Tokyo Olympics and visualize the results using Power BI.
 
 ## Data Source
 
